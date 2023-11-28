@@ -36,13 +36,17 @@ The project serves as a demonstration of proficiency in implementing a variety o
    - Exploration of downloading assets and integrating them into the project.
 
 - **Player Armature Changing and Controllers:**
-   - Dynamic changes to player armature and implementation of controllers for character manipulation.
+   - Dynamic changes to the player's armature and implementation of controllers for character manipulation.
 
 - **Camera and Cinemachine:**
    - Use of Cinemachine for camera control to create engaging and dynamic perspectives.
 
 - **Skybox:**
    - Customization of the environment using different skyboxes.
+
+<p align="center">
+      <img src="https://github.com/DNightOwl/Unity_IDC_Assignment/assets/44389240/2da66e65-ff6c-42ad-9992-7342097c205e" data-canonical-src="https://github.com/DNightOwl/Unity_IDC_Assignment/assets/44389240/2da66e65-ff6c-42ad-9992-7342097c205e" />
+</p>
 
 ## Getting Started
 
@@ -53,23 +57,13 @@ The project serves as a demonstration of proficiency in implementing a variety o
 ### Installation
 
 1. Clone the repository to your local machine.<br>
- ```git clone https://github.com/your-username/unity-comprehensive-project.git```
+ ``` https://github.com/DNightOwl/Unity_IDC_Assignment.git ```
 
 Open the project in Unity.<br>
 Explore the scenes to witness the implemented features.
 
-### Usage
-Launch the Unity project.<br>
-Navigate through the scenes to experience and interact with the diverse set of implemented features.<br>
-Observe the integration of different Unity concepts in a cohesive and interactive environment.
-
-## Structure
-Assets: Contains project assets, including scripts, 3D models, textures, and audio clips.
-Scenes: Scene files showcasing different aspects of the project.
-
 ## Acknowledgments
 
 - Unity Asset Store contributors for providing assets used in this project.
-- [Unity Documentation](https://docs.unity3d.com/Manual/index.html) for reference. //TODO
 - This project was developed as part of a virtual reality (VR) training program [The Interactive Digital Center (IDC)](https://eonreality.com/locations/ben-guerir-ma/#:~:text=in%20their%20sector.-,VR%20Innovation%20Academy,-COMPREHENSIVE%20CURRICULUM). The goal of the training was to apply and reinforce various Unity concepts, including 3D environment design, asset integration, scripting and UI integration with VR and AR functionality.
 
